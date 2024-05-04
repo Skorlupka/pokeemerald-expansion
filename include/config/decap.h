@@ -20,7 +20,7 @@ Exceptions:
 
 // If TRUE, *all* Pokemon nicknames and player names will be decapitalized.
 // Otherwise, their case will be preserved. Default FALSE
-#define DECAP_NICKNAMES     FALSE
+#define DECAP_NICKNAMES     TRUE
 
 #define DECAP_MAIN_MENU     TRUE // Main menu text.
 #define DECAP_OPTION_MENU   TRUE // Option menu text.
