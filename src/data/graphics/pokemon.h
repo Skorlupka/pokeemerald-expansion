@@ -9573,7 +9573,7 @@ const u8 gMonFootprint_QuestionMark[] = INCBIN_U8("graphics/pokemon/question_mar
 #endif //P_FAMILY_ROWLET
 
 #if P_FAMILY_LITTEN
-    const u32 gMonFrontPic_Litten[] = INCBIN_U32("graphics/pokemon/litten/front.4bpp.lz");
+    const u32 gMonFrontPic_Litten[] = INCBIN_U32("graphics/pokemon/litten/anim_front.4bpp.lz");
     const u32 gMonPalette_Litten[] = INCBIN_U32("graphics/pokemon/litten/normal.gbapal.lz");
     const u32 gMonBackPic_Litten[] = INCBIN_U32("graphics/pokemon/litten/back.4bpp.lz");
     const u32 gMonShinyPalette_Litten[] = INCBIN_U32("graphics/pokemon/litten/shiny.gbapal.lz");
